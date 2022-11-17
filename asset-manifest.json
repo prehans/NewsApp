@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prehans/NewsApp/static/css/main.abd64e84.css",
+    "main.js": "/prehans/NewsApp/static/js/main.6549974d.js",
+    "static/js/787.4c026eef.chunk.js": "/prehans/NewsApp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/prehans/NewsApp/index.html",
+    "main.abd64e84.css.map": "/prehans/NewsApp/static/css/main.abd64e84.css.map",
+    "main.6549974d.js.map": "/prehans/NewsApp/static/js/main.6549974d.js.map",
+    "787.4c026eef.chunk.js.map": "/prehans/NewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6549974d.js"
+  ]
+}
